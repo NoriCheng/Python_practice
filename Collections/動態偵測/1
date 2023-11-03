@@ -1,1 +1,11 @@
+這檔案為 "動態偵測辨識" 實作，
+目標是抓取監視器畫面，辨識門前移動的物體，並寄送email 提醒用戶
 
+Module using 
+"cv2"  影像處理 , https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+"numpy" 陣列相關 , https://numpy.org/doc/stable/reference/index.html#reference
+"os" 作業系統介面操作 , https://docs.python.org/zh-tw/3/library/os.html
+"datetime" 日期操作 , https://docs.python.org/zh-tw/3/library/datetime.html
+"pathlib" 文件系统路径 ,https://docs.python.org/zh-tw/3/library/pathlib.html
+"email" 郵件操作 , https://docs.python.org/zh-tw/3/library/email.examples.html
+"smtplib" SMTP協議 , https://docs.python.org/zh-tw/3/library/smtplib.html
