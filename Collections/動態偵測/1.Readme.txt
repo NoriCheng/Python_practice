@@ -9,3 +9,7 @@ Module using
 "pathlib" 文件系统路径 ,https://docs.python.org/zh-tw/3/library/pathlib.html
 "email" 郵件操作 , https://docs.python.org/zh-tw/3/library/email.examples.html
 "smtplib" SMTP協議 , https://docs.python.org/zh-tw/3/library/smtplib.html
+
+實際操作影片
+動態辨識：https://drive.google.com/file/d/1py8-SPpDU4pG6bKgKSTaF_vW1vWwMMpD/view?usp=sharing
+結合辨識與寄送mail: https://drive.google.com/file/d/1_75loZ8zCTXwdFvkKB1j6Cvenj13rcC-/view?usp=sharing
